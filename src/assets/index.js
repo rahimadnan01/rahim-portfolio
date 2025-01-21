@@ -20,6 +20,7 @@ import simplePortfolio from "./projects/portfolio.png";
 import spaceX from "./projects/spacex-project.png";
 import sidcup from "./projects/Sidcup.png";
 import Krist from "./projects/Krist.png";
+import logo from "./projects/logo.jpg"
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -32,7 +33,8 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.png";
 
 // Import common assets
-import logo from "./logo.svg";
+
+
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -67,4 +69,5 @@ export {
   spaceX,
   sidcup,
   Krist,
+
 };
